@@ -1,3 +1,3 @@
 # Sarrus Mechanism
 ![Movement](Movement.gif)
-![Model](Model.png)
+![Model](Model.jpg)
